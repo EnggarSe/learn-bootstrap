@@ -38,10 +38,9 @@ header{
     width : 20%
 }
 .album h3{
-    font-family: 'Liu Jian Mao Cao', cursive !important;
+    font-family:'Lobster Two', cursive !important;
     color: wheat;
     text-align: center;
-
 }
 .main img{
     width: 90%;
